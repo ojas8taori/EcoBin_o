@@ -1,0 +1,6 @@
+@echo off
+echo Building frontend...
+call vite build
+echo Building backend...
+call esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist
+echo Build completed!

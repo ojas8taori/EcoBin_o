@@ -1,0 +1,46 @@
+{
+  "exportDate": "2025-07-14T17:35:35.922Z",
+  "version": "1.0.0",
+  "tables": [
+    {
+      "name": "users",
+      "recordCount": 1
+    },
+    {
+      "name": "waste_entries",
+      "recordCount": 0
+    },
+    {
+      "name": "pickup_schedules",
+      "recordCount": 0
+    },
+    {
+      "name": "community_reports",
+      "recordCount": 0
+    },
+    {
+      "name": "cleanup_events",
+      "recordCount": 0
+    },
+    {
+      "name": "event_participants",
+      "recordCount": 0
+    },
+    {
+      "name": "eco_challenges",
+      "recordCount": 0
+    },
+    {
+      "name": "user_challenge_progress",
+      "recordCount": 0
+    },
+    {
+      "name": "rewards",
+      "recordCount": 0
+    },
+    {
+      "name": "user_rewards",
+      "recordCount": 0
+    }
+  ]
+}

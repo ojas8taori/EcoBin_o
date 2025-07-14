@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "adarshshs",
+      "username": "adarshshs",
+      "password": "aebb4b1b76381825299d87c81cbf388c095623b18f5fa82395bf51967c20fbb8f9a71a7b75ed937b4618158a71fc46e6447dfae4cdece5a71515aaef1acb71df.e196ff0da287e44a9fb5c677b56c9d06",
+      "email": "adarshshs@ecobin.local",
+      "first_name": "adarshshs",
+      "last_name": "",
+      "profile_image_url": null,
+      "eco_points": 0,
+      "carbon_footprint": "0.00",
+      "green_tier": "Bronze",
+      "language": "en",
+      "created_at": "2025-07-14T17:30:15.892Z",
+      "updated_at": "2025-07-14T17:30:15.892Z"
+    }
+  ],
+  "waste_entries": [],
+  "pickup_schedules": [],
+  "community_reports": [],
+  "cleanup_events": [],
+  "event_participants": [],
+  "eco_challenges": [],
+  "user_challenge_progress": [],
+  "rewards": [],
+  "user_rewards": []
+}
